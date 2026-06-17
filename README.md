@@ -2,6 +2,9 @@
 
 A futuristic student dashboard built with Next.js, Supabase, Tailwind CSS, and Framer Motion.
 
+## 🎥 Demo
+![Dashboard Demo](demo.gif)
+
 ## 🛠️ Tech Stack
 - **Framework**: Next.js 15 (App Router)
 - **Database**: Supabase (PostgreSQL)
